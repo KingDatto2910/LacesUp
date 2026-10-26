@@ -1,0 +1,31 @@
+# Existing documents: local until the final project phase
+/Implementation/
+/LacesUp_Skills/
+/AGENTS.md
+/scripts/validate_docs.py
+/LacesUp_UIUX_Skills/
+
+# Dependencies and generated output
+node_modules/
+.pnpm-store/
+.next/
+.turbo/
+dist/
+coverage/
+.expo/
+*.tsbuildinfo
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.log
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+/scripts/README.md
+/frontend/README.md
+/frontend/AGENTS.md
